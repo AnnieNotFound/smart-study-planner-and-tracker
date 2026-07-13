@@ -41,4 +41,4 @@ Smart Study Planner is a Java-based console application that helps students effi
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-study-planner-java.git
+   git clone https://github.com/AnnieNotFound/smart-study-planner-java.git
